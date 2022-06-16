@@ -1,4 +1,4 @@
-#Welcome to Maxym's Project section
+Welcome to Maxym's Project section
 
 This project was originally created for a class from my university. We were trying to created a Machine learning algorithm that gives an output to user on their susceptibility to contract COVID-19 based on their personal information as well as their possible symptoms and the likelihood of turning into serious illness.
 
